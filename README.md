@@ -1,4 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I'm Ritika Dhiman.<br>Generative AI Builder | Chemistry AI Evaluator (Innodata) | M.Sc. Chemistry<br>I combine deep Chemistry domain expertise (M.Sc. Chemistry, former IIT JEE and NEET faculty) and production LLM evaluation experience at Innodata with hands-on Python, FastAPI, RAG, and Multimodal AI engineering to build reliable scientific AI products.<br>Featured AI Projects<br>MyChem Buyer AI (Chem_buyer_llm)<br>Live App: https://www.google.com/search?q=https://mychem-buyer-ai.streamlit.app<br>GitHub: https://www.google.com/search?q=https://github.com/ritikad2125/Chem_buyer_llm<br>Built a multimodal chemical procurement assistant supporting ChemDraw exports, handwritten molecular sketches, SMILES, and chemical names using Gemini Vision and PubChem PUG-REST.<br>Compares live supplier prices across India and global vendors (IndiaMART, Sigma-Aldrich, Fisher Scientific, TCI Chemicals, LabFriend India, Amazon India, Loba Chemie) with deterministic unit-price math (INR/L, USD/kg) across INR, USD, EUR, and GBP.<br>Includes a Batch Excel/CSV BOM uploader (.xlsx export), a FastAPI REST backend ([invalid URL] with Swagger UI), and an automated CAS-accuracy and latency evaluation suite (eval_api.py).<br>Chemical SDS Q&A Assistant (chemical-sds-qa-assistant)<br>GitHub: https://www.google.com/search?q=https://github.com/ritikad2125/chemical-sds-qa-assistant<br>Built a grounded Safety Data Sheet (PDF) Q&A and multi-document RAG assistant using Streamlit, PyPDF, Qdrant, and Gemini embeddings to minimize hallucinations on lab safety queries.<br>AI Evaluation & Domain Experience<br>Senior Associate, AI Operations and Quality Control at Innodata (Feb 2026 - Present): Quality control and evaluation of Chemistry-related AI/LLM outputs, multimodal deliverables, LaTeX/chemical notation, and instruction-compliance rubrics across workflows including Handcheck AI, Project Lumiere, Multi-Model Retro QC, and OTS Chemistry.<br>Chemistry Faculty (2023 - Jan 2026): Taught competitive-exam Chemistry at Unacademy, Pathfinders, and Interflux Academy.<br>Education: [invalid URL] in Chemistry (2022) and [invalid URL] in Chemistry (2016), Himachal Pradesh University.<br>Tech Stack<br>Python, FastAPI, Streamlit, Google Gemini API, Pydantic, Qdrant, PubChem PUG-REST, Pandas, OpenPyXL, Git and GitHub.<br>Contact<br>Email: ritikad2125@gmail.com<br>Languages: English (Fluent), Hindi (Native)
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__ritika__2125) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ritika Dhiman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritikad2125@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ritikad2125&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ritikad2125&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ritikad2125&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=ritikad2125&icon=0&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
 <!--
 **ritikad2125/ritikad2125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
